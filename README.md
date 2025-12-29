@@ -3,7 +3,7 @@
 Proxmox-based virtualization lab for learning Linux administration.
 
 ## Overview
-- Proxmox host running VMs: Ubuntu01 (Ansible control), UServer (Twingate + Squid Proxy), NAS (FreeNAS/ZFS)
+- Proxmox host running VMs: Ubuntu01 (Ansible control), UServer (Twingate + Squid Proxy), NAS (FreeNAS/ZFS), AWS Cloud Instance of Ubuntu
 - Secure remote access via Twingate
 - Goals: Practice automation, networking, storage
 
