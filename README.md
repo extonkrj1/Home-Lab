@@ -1,4 +1,4 @@
-# Home-Lab# My Homelab
+## My Homelab
 
 Proxmox-based virtualization lab for learning Linux administration.
 
